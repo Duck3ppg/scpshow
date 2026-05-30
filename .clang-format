@@ -1,0 +1,4 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never # Change to 'Always' if you want actual tab characters instead of spaces
